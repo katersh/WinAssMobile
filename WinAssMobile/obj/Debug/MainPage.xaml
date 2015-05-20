@@ -8,6 +8,13 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" Margin="342,10,0,0" TextWrapping="Wrap" Text="Save notes" VerticalAlignment="Top" FontSize="31"/>
+        <TextBox x:Name="course" HorizontalAlignment="Center" Margin="288,90,308,0" TextWrapping="Wrap" Text="Course name" VerticalAlignment="Top" Height="72" Width="261"/>
+        <TextBox x:Name="date" HorizontalAlignment="Left" Margin="288,191,0,0" TextWrapping="Wrap" Text="Date" VerticalAlignment="Top" Height="77" Width="261"/>
+        <Button x:ConnectionId='1' x:Name="takephoto" Content="Take photo of notes" HorizontalAlignment="Left" Margin="326,289,0,0" VerticalAlignment="Top"                        />
+        <Button x:ConnectionId='2' x:Name="save" Content="Save" HorizontalAlignment="Left" Margin="380,349,0,0" VerticalAlignment="Top"                   />
+        <Image x:Name="img_viewer" HorizontalAlignment="Left" Height="133" VerticalAlignment="Top" Width="261" Margin="288,437,0,0"/>
+        <TextBlock x:Name="tekstsiia" HorizontalAlignment="Left" Margin="288,601,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="706" Width="261" FontSize="20"/>
 
     </Grid>
 </Page>

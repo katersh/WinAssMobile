@@ -1,0 +1,1 @@
+c:\users\roger\documents\visual studio 2013\Projects\WinAssMobile\WinAssMobile\WinAssMobile.csproj;neutral

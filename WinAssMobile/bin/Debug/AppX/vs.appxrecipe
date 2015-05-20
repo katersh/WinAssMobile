@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ROGER-PC</Machine>
+    <WindowsUser>Roger</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f0f3347d-b533-4a1e-bb69-d96927a98001</PackageIdentityName>
+    <RegisteredManifestChecksum>10E9C5831982E069DB073E1747269CEC778FF1A79E925DCFD792F5956B3EA54B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f0f3347d-b533-4a1e-bb69-d96927a98001_1.0.0.0_neutral__gw4zt26480tv8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f0f3347d-b533-4a1e-bb69-d96927a98001_gw4zt26480tv8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f0f3347d-b533-4a1e-bb69-d96927a98001</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Roger</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\roger\documents\visual studio 2013\Projects\WinAssMobile\WinAssMobile\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-20T22:48:07.807</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\WinAssMobile\WinAssMobile\bin\Debug\WinAssMobile.exe">
+      <PackagePath>WinAssMobile.exe</PackagePath>
+      <Modified>2015-05-20T22:48:07.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\WinAssMobile\WinAssMobile\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\WinAssMobile\WinAssMobile\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\WinAssMobile\WinAssMobile\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\WinAssMobile\WinAssMobile\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\WinAssMobile\WinAssMobile\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-20T22:46:33.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\WinAssMobile\WinAssMobile\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-20T22:48:07.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\WinAssMobile\WinAssMobile\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-20T22:48:07.673</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
